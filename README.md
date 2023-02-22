@@ -1,5 +1,3 @@
-# UnknownMonk
-
 <img src="./UnknownMonk1.png" />
 
 I am an a developer with 9 years of web-development experience and 5 years of experience as a full stack developer React/Next.js and Node are my chosen technologies to build with.<br>
