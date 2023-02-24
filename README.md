@@ -3,7 +3,7 @@
 I am an a developer experienced in full stack JavaScript development React/Next.js and Node are my chosen technologies to build with.<br>
 I have been working professonaly for the last 5 years with small to mid sized companys and I am currently open to work <br>
 
-I am currently looking for new opportunities and I am open to work, Contract or Full time.
+
 
 <div align=center>
 <h2>My skills</h2>
