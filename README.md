@@ -24,6 +24,6 @@ I have been working professonaly for the last 5 years with small to mid sized co
 
 ![UnknownMonk's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnknownMonk&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnknownMonk&layout=compact&theme=radical)](https://github.com/UnknownMonk/github-readme-stats)
+
 
   </div>
