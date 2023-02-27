@@ -22,10 +22,7 @@ I have been working professonaly for the last 5 years with small to mid sized co
 
 <h2>My GitHub Stats</h2>
 
-
-
-[![UnknownMonk's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnknownMonk&show_icons=true&theme=dark)](https://github.com/UnknownMonk/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnknownMonk&layout=compact&theme=dark)](https://github.com/UnknownMonk/github-readme-stats)
+![UnknownMonk's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnknownMonk&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnknownMonk&layout=compact&theme=dark)
 
   </div>
