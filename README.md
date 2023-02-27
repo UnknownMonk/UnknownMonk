@@ -3,8 +3,6 @@
 I am an a developer experienced in full stack JavaScript development React/Next.js and Node are my chosen technologies to build with.<br>
 I have been working professonaly for the last 5 years with small to mid sized companys and I am currently open to work <br>
 
-
-
 <div align=center>
 <h2>My skills</h2>
   
@@ -23,6 +21,8 @@ I have been working professonaly for the last 5 years with small to mid sized co
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <h2>My GitHub Stats</h2>
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![UnknownMonk's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnknownMonk&show_icons=true&theme=dark)](https://github.com/UnknownMonk/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnknownMonk&layout=compact&theme=dark)](https://github.com/UnknownMonk/github-readme-stats)
