@@ -22,7 +22,7 @@ I have been working professonaly for the last 5 years with small to mid sized co
 
 <h2>My GitHub Stats</h2>
 
-![UnknownMonk's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnknownMonk&show_icons=true&theme=radical)
+
 
 
 
